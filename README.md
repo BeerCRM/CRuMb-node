@@ -1,4 +1,3 @@
-CRuMb-node
-==========
+# CRuMb
 
-CRuMb CRM on NodeJS
+A very small, lightweight CRM for the Beer industry
