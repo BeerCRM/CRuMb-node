@@ -20,13 +20,12 @@
 
     <div id="wrapper" class="container">
         {+body /}
-    
-    
+
+        {>"includes/footer" /}
     </div><!-- /.container -->
-{>"includes/footer" /}
 
 <script data-main="/js/app" src="/components/requirejs/require.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script data-main="/js/app" src="/js/jquery.min.js"></script>
 <script data-main="/js/app" src="/js/bootstrap.min.js"></script>
   </body>
 </html>
