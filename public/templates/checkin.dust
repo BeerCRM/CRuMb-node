@@ -1,0 +1,16 @@
+{>"layouts/master" currentTab="checkin" /}
+
+{<body}
+    <h1>Customer Check-In</h1>
+    <p>Choose a customer. We'll try to autodetect, but need geo-data for this to work.
+    <form>
+    	<fieldset>
+	    	<select class="selectAndGoTrigger form-control">
+	    		<option data-latlong="37.78745910,-122.39944750" value="2"> 111 Minna Gallery </option>
+   			</select>
+    	</fieldset>
+    </form>
+    <p>
+	    <button class="btn btn-default">Add a new customer</button>
+    </p>
+{/body}
