@@ -1,8 +1,0 @@
-{>"layouts/master" /}
-
-{<body}
-
-ABOUT
-
-    <h1>{@pre type="content" key="greeting"/}</h1>
-{/body}

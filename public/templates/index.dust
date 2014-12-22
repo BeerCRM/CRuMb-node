@@ -1,5 +1,5 @@
-{>"layouts/master" /}
+{>"layouts/homepage" /}
 
 {<body}
-    <h1>{@pre type="content" key="greeting"/}</h1>
+    <h1>Welcome</h1>
 {/body}
