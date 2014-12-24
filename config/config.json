@@ -1,7 +1,6 @@
 {
    "mongodb": {
-        "local": "mongodb://localhost/eBayTalentBridge",
-        //"mongolab": "mongodb://heroku_app31940601:3sb1ot5c5n7cm82khv2atpj3h6@ds051960.mongolab.com:51960/heroku_app31940601",
+        "local": "mongodb://localhost/crumb",
         "use": "local"
     },
 

@@ -6,6 +6,8 @@ var kraken = require('kraken-js');
 
 var options, app;
 
+global.__base = __dirname + '/';
+
 /*
  * Create and configure application. Also exports application instance for use by tests.
  * See https://github.com/krakenjs/kraken-js#options for additional configuration options.

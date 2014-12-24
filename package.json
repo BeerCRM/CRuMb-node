@@ -17,6 +17,7 @@
     "kraken-js": "^1.0.1",
     "less": "^1.7.5",
     "localizr": "^0.1.2",
+    "mongoose": "^3.8.21",
     "requirejs": "^2.1.15"
   },
   "devDependencies": {
